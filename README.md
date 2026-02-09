@@ -1,13 +1,13 @@
 **<h1> RAND0M: DevOps</h1>**
 
-![RAND0M: DevOps](https://github.com/random-knights/.github/blob/main/Src/standard-automation.png "Randomly Engineering")
+![RAND0M: DevOps](src/standard-automation.png "Randomly Engineering")
 
 #### **TABLE OF CONTENTS**
 
-- [RAND0M: Agile Manifesto](https://github.com/random-knights/.github/blob/main/agile-manifesto.md)
-- [RAND0M: Automation Manifesto](https://github.com/random-knights/.github/blob/main/automation-manifesto.md)
-- [RAND0M: BDD](https://github.com/random-knights/.github/blob/main/automation-bdd.md)
-- [RAND0M: Object Name Mapping](https://github.com/random-knights/.github/blob/main/automation-name-mapping.md)
+- [RAND0M: Agile Manifesto](agile-manifesto.md)
+- [RAND0M: Automation Manifesto](automation-manifesto.md)
+- [RAND0M: BDD](automation-bdd.md)
+- [RAND0M: Object Name Mapping](automation-name-mapping.md)
 
 ## <span style="color:#51F4C0"><u> **OVERVIEW** </u></span>
 
