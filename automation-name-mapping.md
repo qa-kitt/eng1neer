@@ -1,6 +1,6 @@
 **<h1> MADE: OBJECT NAMEMAPPING w/TESTCOMPLETE </h1>**
 
-![made-automation.png](Src/standard-automation.png)
+![made-automation.png](src/standard-automation.png)
 
 ## <span style="color:#555555"><u> **OVERVIEW** </u></span>
 
