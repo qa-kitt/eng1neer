@@ -1,17 +1,17 @@
-**<h1> MADE: DevOps</h1>**
+**<h1> RAND0M: DevOps</h1>**
 
-![MADE: DevOps](Src/standard-automation.png "Kitt, LLC")
+![RAND0M: DevOps](https://github.com/random-knights/.github/blob/main/Src/standard-automation.png "Randomly Engineering")
 
 #### **TABLE OF CONTENTS**
 
-- [MADE: Agile Manifesto](agile-manifesto.md)
-- [MADE: Automation Manifesto](automation-manifesto.md)
-- [MADE: BDD](automation-bdd.md)
-- [MADE: Object Name Mapping](automation-name-mapping.md)
+- [RAND0M: Agile Manifesto](https://github.com/random-knights/.github/blob/main/agile-manifesto.md)
+- [RAND0M: Automation Manifesto](https://github.com/random-knights/.github/blob/main/automation-manifesto.md)
+- [RAND0M: BDD](https://github.com/random-knights/.github/blob/main/automation-bdd.md)
+- [RAND0M: Object Name Mapping](https://github.com/random-knights/.github/blob/main/automation-name-mapping.md)
 
 ## <span style="color:#51F4C0"><u> **OVERVIEW** </u></span>
 
-<span style="color:#B387FD"><u>**MADE: DevOps**</u></span> - anything and everyhting QA Automation & Engineering. Consider this my "Professional Portfolio" .... or whatever.
+<span style="color:#B387FD"><u>**RAND0M: DevOps**</u></span> - anything and everyhting QA Automation & Engineering. Consider this my "Professional Portfolio" .... or whatever.
 
 A stripped down, high-level, 12+ year overview of SOME of my latest work & :taco::taco:!
 
