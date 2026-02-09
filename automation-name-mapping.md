@@ -19,7 +19,7 @@ Each tested application should maintain it's own NameMpping repository within th
 Merging - [reference](https://support.smartbear.com/testcomplete/docs/testing-with/object-identification/name-mapping/how-to/merge.html)
 NameMapping - [reference](https://support.smartbear.com/testcomplete/docs/testing-with/object-identification/name-mapping/index.html)
 
-![nameMapping.png](Src/assets/nameMapping.png)
+![nameMapping.png](src/assets/nameMapping.png)
 
 **NOTE:** All NameMapping changes should conform to the existing naming format and object hierarchy of each individual project. All commits of the `NameMapping.tcNM` and `TypeInfo.dat` files to the automation repository should be approved and pushed by the individuals reference as the NameMapping points of contact (above).
 

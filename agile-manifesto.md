@@ -67,7 +67,7 @@ Week 3 :  c1, 2023-01-16, 5d
 
 ### <span style="color:orange"> Flow </span>
 
-![Sprint Process Flow](Src/assets/sprint_process_flow.png)
+![Sprint Process Flow](src/assets/sprint_process_flow.png)
 
 ## <span style="color:#555555"><u> **TASK LISTS** </u></span>
 
@@ -180,7 +180,7 @@ The creation of a product backlog and management. This process should outline th
 
 Please use the following references for more information:
 
-- [Product Implementation Workflow VSDX](Src/assets/Product-Implementation-Workflow.vsdx)
+- [Product Implementation Workflow VSDX](src/assets/Product-Implementation-Workflow.vsdx)
 
 ### <span style="color:orange"> Product Backlog Grooming </span>
 
